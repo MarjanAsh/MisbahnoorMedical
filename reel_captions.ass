@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,0,0,1,7,4,5,60,60,0
+Style: Hook,Inter Black,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,3,22,0,5,60,60,0
+Style: End,Inter Black,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,5,60,60,0
+Style: EndS,Inter,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,5,60,60,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:01.01,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}YE COMMENT MUJHE
+Dialogue: 1,0:00:01.01,0:00:01.89,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}SAB SE {\c&H0028E0FF&\fscx112\fscy112}ZYADA{\r}
+Dialogue: 1,0:00:01.89,0:00:02.65,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}AATA HAI AAP
+Dialogue: 1,0:00:02.65,0:00:03.34,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}NE {\c&H0028E0FF&\fscx112\fscy112}KON{\r} {\c&H0028E0FF&\fscx112\fscy112}SE{\r}
+Dialogue: 1,0:00:03.34,0:00:04.60,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}HOSPITAL SE KARWAYA?
+Dialogue: 1,0:00:04.60,0:00:05.69,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}MAIN BATATI HOON,
+Dialogue: 1,0:00:05.69,0:00:06.78,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}MAINE KARWAYA HAI
+Dialogue: 1,0:00:06.78,0:00:08.20,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}MISBAH{\r} {\c&H0028E0FF&\fscx112\fscy112}NOOR{\r} HOSPITAL
+Dialogue: 1,0:00:08.20,0:00:09.03,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}SE {\c&H0028E0FF&\fscx112\fscy112}ALI{\r} {\c&H0028E0FF&\fscx112\fscy112}TOWN{\r}
+Dialogue: 1,0:00:09.03,0:00:10.06,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}KE PAAS, {\c&H0028E0FF&\fscx112\fscy112}THOKAR{\r}
+Dialogue: 1,0:00:10.06,0:00:10.70,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}NIAZ {\c&H0028E0FF&\fscx112\fscy112}BAIG{\r}
+Dialogue: 1,0:00:10.70,0:00:11.46,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}AGAR AAP KO
+Dialogue: 1,0:00:11.46,0:00:12.65,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}PATA HO, {\c&H0028E0FF&\fscx112\fscy112}GHURKI{\r}
+Dialogue: 1,0:00:12.65,0:00:13.62,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}WAGHERA YE ISI
+Dialogue: 1,0:00:13.62,0:00:14.59,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}LINE MEIN AATA
+Dialogue: 1,0:00:14.59,0:00:14.80,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}HAI
+Dialogue: 1,0:00:14.80,0:00:16.43,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}AUR MERI DOCTOR
+Dialogue: 1,0:00:16.43,0:00:17.85,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}THI {\c&H0028E0FF&\fscx112\fscy112}DR.{\r} HINA
+Dialogue: 1,0:00:17.85,0:00:18.50,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}AHMED{\r}
+Dialogue: 1,0:00:18.50,0:00:19.34,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}UNHON NE MERA
+Dialogue: 1,0:00:19.34,0:00:20.83,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}OPERATION {\c&H0028E0FF&\fscx112\fscy112}BOHAT{\r} {\c&H0028E0FF&\fscx112\fscy112}ACHAY{\r}
+Dialogue: 1,0:00:20.83,0:00:21.80,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}TAREEQE SE KIYA
+Dialogue: 1,0:00:21.80,0:00:22.64,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}ABHI SIRF {\c&H0028E0FF&\fscx112\fscy112}24{\r}
+Dialogue: 1,0:00:22.64,0:00:23.80,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}GHANTAY{\r} HUAY HAIN
+Dialogue: 1,0:00:23.80,0:00:25.02,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}MAIN WALK BHI
+Dialogue: 1,0:00:25.02,0:00:26.43,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}KHUD{\r} KAR RAHI
+Dialogue: 1,0:00:26.43,0:00:27.84,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}HOON, KHANA BHI
+Dialogue: 1,0:00:27.84,0:00:29.06,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}KHUD AUR {\c&H0028E0FF&\fscx112\fscy112}KOI{\r}
+Dialogue: 1,0:00:29.06,0:00:30.00,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}PAIN{\r} NAHI
+Dialogue: 1,0:00:30.00,0:00:31.15,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}MERI TARAF SE
+Dialogue: 1,0:00:31.15,0:00:32.65,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}YE HOSPITAL {\c&H0028E0FF&\fscx112\fscy112}100%{\r}
+Dialogue: 1,0:00:32.65,0:00:34.59,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}RECOMMENDED{\r} HAI YAHAN
+Dialogue: 1,0:00:34.59,0:00:35.91,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}KA STAFF {\c&H0028E0FF&\fscx112\fscy112}BOHAT{\r}
+Dialogue: 1,0:00:35.91,0:00:38.03,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}COOPERATIVE{\r} HAI PRIVATE
+Dialogue: 1,0:00:38.03,0:00:39.18,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}HOTE HUAY BHI
+Dialogue: 1,0:00:39.18,0:00:40.50,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}MUNASIB{\r} RATES
+Dialogue: 1,0:00:40.50,0:00:41.92,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}AUR MERI DOCTOR
+Dialogue: 1,0:00:41.92,0:00:44.00,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}BHI {\c&H0028E0FF&\fscx112\fscy112}100%{\r} {\c&H0028E0FF&\fscx112\fscy112}RECOMMENDED{\r}
+Dialogue: 1,0:00:44.00,0:00:46.18,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}OPERATION {\c&H0028E0FF&\fscx112\fscy112}BOHAT{\r} {\c&H0028E0FF&\fscx112\fscy112}ACHAY{\r}
+Dialogue: 1,0:00:46.18,0:00:47.60,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}TAREEQE SE KIYA
+Dialogue: 1,0:00:47.60,0:00:48.76,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}AAP LOG EK
+Dialogue: 1,0:00:48.76,0:00:50.27,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}DAFA {\c&H0028E0FF&\fscx112\fscy112}ZAROOR{\r}
+Dialogue: 1,0:00:50.27,0:00:52.60,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}YAHAN CONTACT KAREIN
+Dialogue: 1,0:00:52.60,0:00:53.51,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}AGAR KISI KA
+Dialogue: 1,0:00:53.51,0:00:54.71,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}BHI OPERATION YA
+Dialogue: 1,0:00:54.71,0:00:56.37,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}NORMAL{\r} {\c&H0028E0FF&\fscx112\fscy112}DELIVERY{\r} HONI
+Dialogue: 1,0:00:56.37,0:00:56.60,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}HAI
+Dialogue: 1,0:00:56.60,0:00:57.30,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}MERI TARAF SE
+Dialogue: 1,0:00:57.30,0:00:58.48,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}{\c&H0028E0FF&\fscx112\fscy112}100%{\r} {\c&H0028E0FF&\fscx112\fscy112}RECOMMENDED{\r} AAP
+Dialogue: 1,0:00:58.48,0:00:58.96,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}BHI {\c&H0028E0FF&\fscx112\fscy112}TRY{\r}
+Dialogue: 1,0:00:58.96,0:00:59.50,Cap,,0,0,0,,{\pos(540,1330)\fscx70\fscy70\t(0,110,\fscx106\fscy106)\t(110,190,\fscx100\fscy100)}KIJIYE GA!
+Dialogue: 2,0:00:00.00,0:00:03.00,Hook,,0,0,0,,{\pos(540,560)\3c&H0028E0FF&\c&H00000000&\fad(0,250)\fscx60\fscy60\t(0,150,\fscx100\fscy100)}DELIVERY KAHAN KARWAYI?
+Dialogue: 3,0:00:59.60,0:01:03.10,EndS,,0,0,0,,{\pos(540,700)\fad(200,0)}Delivery • Surgery • Emergency 24/7
+Dialogue: 3,0:00:59.60,0:01:03.10,End,,0,0,0,,{\pos(540,880)\c&H0060E070&\fscx70\fscy70\t(0,200,\fscx100\fscy100)}MISBAH NOOR
+Dialogue: 3,0:00:59.70,0:01:03.10,End,,0,0,0,,{\pos(540,990)\fscx70\fscy70\t(0,200,\fscx100\fscy100)}MEDICAL COMPLEX
+Dialogue: 3,0:01:00.00,0:01:03.10,EndS,,0,0,0,,{\pos(540,1160)\fad(250,0)}Ali Town ke paas, Thokar Niaz Baig, Lahore
+Dialogue: 3,0:01:00.30,0:01:03.10,EndS,,0,0,0,,{\pos(540,1300)\c&H0028E0FF&\fad(250,0)}Aaj hi contact karein!
